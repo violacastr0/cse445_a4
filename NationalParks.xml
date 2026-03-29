@@ -34,6 +34,7 @@
 	<NationalPark>
 		<Name>Zion</Name>
 		<Phone>435-772-3256</Phone>
+		<Phone>435-772-3257</Phone>
 		<Address NearestAirport="St George Regional">
 			<Number>1</Number>
 			<Street>Zion Park Boulevard</Street>
@@ -59,6 +60,7 @@
 	<NationalPark>
 		<Name>Rocky Mountain</Name>
 		<Phone>970-586-1206</Phone>
+		<Phone>970-586-1207</Phone>
 		<Address NearestAirport="Denver International">
 			<Number>1000</Number>
 			<Street>US Highway 36</Street>
@@ -71,6 +73,7 @@
 	<NationalPark Rating="4.7">
 		<Name>Olympic</Name>
 		<Phone>360-565-3130</Phone>
+		<Phone>360-565-3131</Phone>
 		<Address NearestAirport="Seattle Tacoma International">
 			<Number>3002</Number>
 			<Street>Mount Angeles Road</Street>
@@ -83,6 +86,7 @@
 	<NationalPark>
 		<Name>Acadia</Name>
 		<Phone>207-288-3338</Phone>
+		<Phone>207-288-3339</Phone>
 		<Address NearestAirport="Hancock County Bar Harbor">
 			<Number>20</Number>
 			<Street>McFarland Hill Drive</Street>
@@ -108,6 +112,7 @@
 	<NationalPark>
 		<Name>Arches</Name>
 		<Phone>435-719-2299</Phone>
+		<Phone>435-719-2300</Phone>
 		<Address NearestAirport="Canyonlands Field">
 			<Number>11</Number>
 			<Street>Arches Entrance Road</Street>
@@ -120,6 +125,7 @@
 	<NationalPark Rating="4.7">
 		<Name>Glacier</Name>
 		<Phone>406-888-7800</Phone>
+		<Phone>406-888-7801</Phone>
 		<Address NearestAirport="Glacier Park International">
 			<Number>64</Number>
 			<Street>Grinnell Drive</Street>
@@ -132,6 +138,7 @@
 	<NationalPark>
 		<Name>Joshua Tree</Name>
 		<Phone>760-367-5500</Phone>
+		<Phone>760-367-5501</Phone>
 		<Address NearestAirport="Palm Springs International">
 			<Number>74485</Number>
 			<Street>National Park Drive</Street>
